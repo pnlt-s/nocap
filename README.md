@@ -1,5 +1,5 @@
 This repository is basically a mirror from my private repository, so the commit author won't be linked to this profile (i use different e-mails for it)
-# Hidler
+# nocap
 An injectable dll extension made to hide any window from record (or screenshot) on Windows.
 
 It's name comes from hide and idler (since you don't have to do anything for it to work after injection)
